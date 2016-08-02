@@ -23,8 +23,8 @@ grails.project.dependency.resolution = {
 
     dependencies {
         runtime('org.apache.ant:ant-launcher:1.8.3')
-        runtime 'net.sourceforge.cobertura:cobertura:2.0.3', {
-            excludes 'ant', 'log4j'
+        runtime 'net.sourceforge.cobertura:cobertura:2.1.1', {
+            excludes 'logback-classic'
         }
         runtime 'xerces:xercesImpl:2.11.0'
         runtime 'xalan:xalan:2.7.1'

@@ -1,7 +1,7 @@
 class CodeCoverageGrailsPlugin {
-	def version = '2.0.3-3'
+	def version = '2.0.3-4'
 
-	def grailsVersion = '1.3 > *'
+	def grailsVersion = '2.4 > *'
 
 	def pluginExcludes = [
 		"grails-app/conf/mavenInfo.groovy"
