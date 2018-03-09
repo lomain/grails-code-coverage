@@ -5,6 +5,6 @@ grails-code-coverage-*.zip
 grails-code-coverage-*.zip.sha1
 mavenInfo.groovy
 web-app
-plugin.xml
 **/target/*
 .DS_Store
+plugins

@@ -22,6 +22,7 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
+
         runtime('org.apache.ant:ant-launcher:1.8.3')
         runtime 'net.sourceforge.cobertura:cobertura:2.1.1', {
             excludes 'logback-classic'
@@ -32,7 +33,7 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-        build ':release:3.0.1', ':rest-client-builder:1.0.3', {
+        build ':release:3.1.2', ':rest-client-builder:1.0.3', {
             export = false
         }
     }
