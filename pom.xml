@@ -4,13 +4,13 @@
   <groupId>org.grails.plugins</groupId>
   <artifactId>code-coverage</artifactId>
   <packaging>grails-plugin</packaging>
-  <version>2.0.3-4-SNAPSHOT</version>
+  <version>2.0.3-5-SNAPSHOT</version>
   <name>code-coverage</name>
   <description>code-coverage</description>
     <scm>
         <connection>scm:git:ssh://git@github.com/lomain/grails-code-coverage.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/lomain/grails-code-coverage.git</developerConnection>
-      <tag>release/2.0.3-4</tag>
+      <tag>HEAD</tag>
   </scm>
   <properties>
     <grails.version>2.4.4</grails.version>
