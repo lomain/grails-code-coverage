@@ -139,12 +139,12 @@
     <repository>
       <id>closely-releases</id>
       <name>Release Repository</name>
-      <url>http://repo.eng.closely.com/repository/maven-releases/</url>
+      <url>https://repo.closely.com/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>closely-snapshots</id>
       <name>Snapshot Repository</name>
-      <url>http://repo.eng.closely.com/repository/maven-snapshots/</url>
+      <url>https://repo.closely.com/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <profiles>
