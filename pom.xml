@@ -10,7 +10,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/lomain/grails-code-coverage.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/lomain/grails-code-coverage.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>release/2.0.3-4</tag>
   </scm>
   <properties>
     <grails.version>2.4.4</grails.version>
@@ -86,7 +86,7 @@
     </dependency>
   </dependencies>
   <build>
-    <pluginManagement/>
+    <pluginManagement />
     <plugins>
       <!-- Disables the Maven surefire plugin for Grails applications, as we have our own test runner -->
       <plugin>
