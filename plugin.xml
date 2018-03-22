@@ -1,4 +1,4 @@
-<plugin name='code-coverage' version='2.0.3-4-SNAPSHOT' grailsVersion='2.4 &gt; *'>
+<plugin name='code-coverage' version='2.0.3-5-SNAPSHOT' grailsVersion='2.4 &gt; *'>
   <title>Test Code Coverage Plugin</title>
   <description>Creates Code Coverage reports for your code</description>
   <documentation>https://github.com/beckje01/grails-code-coverage</documentation>
